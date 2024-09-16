@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anj-alii
-- 👀 I’m interested in cybersecurity,ethical hacking and web development
+- 👀 I’m interested in python programming ,web dev and cyber security
 - 🌱 I’m currently learning cse cybersecurity
 - 💞️ I’m looking to collaborate on projects 
 - 😄 Pronouns: she/her
